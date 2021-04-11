@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println("kappa keepo krepo");
 		hello.hello();
+		System.out.println("this was succesfuly pushed to github");
 	}
 	
 
